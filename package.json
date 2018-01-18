@@ -1,0 +1,14 @@
+{
+  "name": "statisk-example",
+  "version": "1.0.0",
+  "description": "An example project for statisk",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "author": "Igor Randjelovic",
+  "license": "MIT",
+  "devDependencies": {
+    "statisk": "^1.0.1"
+  }
+}
